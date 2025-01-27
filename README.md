@@ -17,27 +17,12 @@ This is a **Typing Speed Test** application built with **React** and **Material-
 
 ---
 
-## 📂 Folder Structure
-```
-📦 typing-speed-test
- ┣ 📂 public
- ┃ ┣ 📄 index.html  # Main HTML file
- ┃ ┣ 📄 keyboard.svg  # Custom favicon (keyboard icon)
- ┣ 📂 src
- ┃ ┣ 📄 App.js  # Main React Component
- ┃ ┣ 📄 TypingTest.js  # Typing speed logic
- ┃ ┣ 📄 index.js  # React entry point
- ┣ 📄 .env  # API Key Configuration
- ┣ 📄 package.json  # Project dependencies
- ┣ 📄 README.md  # Documentation
-```
-
 ---
 
 ## 🛠️ Installation & Setup
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/typing-speed-test.git
+git clone https://github.com/vipulkandal/typing-speed-test.git
 cd typing-speed-test
 ```
 
